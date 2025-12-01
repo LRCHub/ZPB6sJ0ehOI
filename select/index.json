@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "回層浮",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T03:03:47.060218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "回層浮",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/01_回層浮_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "回層浮",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/02_回層浮_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "回層浮",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/03_回層浮_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "回層浮",
+      "artist": "MyGO!!!!!",
+      "has_synced": true,
+      "path": "select/04_回層浮_MyGO!!!!!.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "回層浮",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_回層浮_MyGO!!!!!.txt"
+    }
+  ]
+}
